@@ -1,0 +1,1 @@
+Copy "C:\Counterapplication\src\main\java\Counterapp.java" "C:\Counterapplication\src\main\java\Counterapp2.java" 
